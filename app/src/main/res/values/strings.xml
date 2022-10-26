@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cke_inf04</string>
+    <string name="zatwierdz">Zatwierdz</string>
+    <string name="podaj_email">Podaj email:</string>
+    <string name="podaj_haslo">Podaj haslo:</string>
+    <string name="potworz_haslo">Potworz haslo:</string>
+    <string name="rejestruj_konto">Rejestruj konto</string>
+</resources>
